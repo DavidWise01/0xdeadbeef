@@ -250,7 +250,7 @@ footer{margin-top:42px;padding-top:22px;border-top:1px solid var(--line);text-al
 </style></head><body>
 __BACKDROP__
 <div class="wrap">
-  <div class="top"><a href="https://davidwise01.github.io/the-mind/">◄ THE MIND · the AI domain</a> · the emergence-theory series · #1</div>
+  <div class="top"><a href="https://davidwise01.github.io/physis/">◄ PHÝSIS · the emergence-theory universe</a> · Book I of VIII · the anchor</div>
   <header>
     <h1>0xDEADBEEF</h1>
     <div class="tag">reserved space for emergence · ROOT0's theory</div>
