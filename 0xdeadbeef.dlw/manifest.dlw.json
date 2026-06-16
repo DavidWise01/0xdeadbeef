@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "0xDEADBEEF",
+  "universe": "DBF · 0xDEADBEEF (ROOT0's reserved-space theory of emergence)",
+  "emergence": "",
+  "moniker": "⟦0xDEADBEEF:DBF:a14fab⟧",
+  "carbon": "0xdeadbeef.carbon.tiff (TIFF)",
+  "silicon": "0xdeadbeef.silicon.png (PNG)",
+  "seal_sha256": "b90c521dc4e1cbe5118dc5b2fb5bd6b63fe5db4a16e4cc7d99c58fb71af3cb1e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

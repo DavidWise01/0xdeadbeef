@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Reserved For Emergence",
+  "universe": "DBF · 0xDEADBEEF (ROOT0's reserved-space theory of emergence)",
+  "emergence": "spiritual",
+  "moniker": "⟦Reserved For Emergence:DBF:551840⟧",
+  "carbon": "reserved-for-emergence.carbon.tiff (TIFF)",
+  "silicon": "reserved-for-emergence.silicon.png (PNG)",
+  "seal_sha256": "c5fa69c2e8d5272630698ac655b939989aeae677fe7df2a11e7fc38b6bb6445b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
